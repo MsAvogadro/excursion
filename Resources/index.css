@@ -2,6 +2,7 @@ body{
   background-color: black;
   text-align: center;
   font-family: verdana;
+  color: white;
 }
 
 h1{
@@ -9,6 +10,7 @@ h1{
   font-size: 50 px;
   color: white;
 }
+
 h2{
   font-weight: 300;
   font-size: 42 px;
@@ -22,5 +24,10 @@ a{
 
 p{
   font-size: 21 px;
+  color: gray;
+}
+
+#copyright{
+  text-align: right;
   color: gray;
 }
